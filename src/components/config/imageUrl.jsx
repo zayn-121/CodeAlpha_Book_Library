@@ -1,0 +1,1 @@
+export let URL = "https://covers.openlibrary.org/b/id/";
